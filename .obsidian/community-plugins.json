@@ -8,5 +8,7 @@
   "obsidian-linter",
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
-  "nl-syntax-highlighting"
+  "nl-syntax-highlighting",
+  "dataview",
+  "zettelflow"
 ]
