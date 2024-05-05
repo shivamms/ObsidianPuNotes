@@ -138,7 +138,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "zettelflow:Create a new Zettel Note": false
     }
   },
   "active": "f463d0179d2cf5de",
