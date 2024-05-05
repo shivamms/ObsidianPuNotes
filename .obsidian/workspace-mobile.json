@@ -117,6 +117,14 @@
             "file": "readme.md"
           }
         }
+      },
+      {
+        "id": "eceef93985f33c66",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -128,9 +136,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "f463d0179d2cf5de",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "/readme.md"
+  ]
 }

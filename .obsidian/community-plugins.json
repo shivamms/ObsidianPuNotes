@@ -1,3 +1,14 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "obsidian-math-plus",
+  "obsidian-latex",
+  "obsidian-latex-suite",
+  "quick-latex",
+  "obsidian-linter",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "nl-syntax-highlighting",
+  "dataview",
+  "zettelflow"
 ]
