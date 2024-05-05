@@ -5,5 +5,8 @@
   "obsidian-latex",
   "obsidian-latex-suite",
   "quick-latex",
-  "obsidian-linter"
+  "obsidian-linter",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "nl-syntax-highlighting"
 ]
