@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ef0bc555596e269",
+  "active": "d008a2f0e4dbc130",
   "lastOpenFiles": [
+    "Coding/MainNotes",
     "LeetCode/untitled folder",
-    "LeetCode/UnderstadingNotes",
-    "LeetCode/CollectingNotes",
+    "Coding/UnderstadingNotes",
+    "Coding/CollectingNotes",
     "LeetCode/FleetingNotes",
     "Untitled",
-    "LeetCode",
+    "Coding",
     "readme.md"
   ]
 }
