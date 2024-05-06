@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md"
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ef0bc555596e269",
+  "active": "d008a2f0e4dbc130",
   "lastOpenFiles": [
+    "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Introduction.md",
     "Coding/GraspedNotes/Untitled.md",
     "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020",
-    "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduciton.md",
+    "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction.md",
     "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020",
-    "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
     "readme.md",
     "Coding/MainNotes",
     "LeetCode/untitled folder",
