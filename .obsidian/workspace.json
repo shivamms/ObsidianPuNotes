@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md",
+                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.5
   },
   "right": {
     "id": "4f519808bf55f75e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md",
+                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md",
+                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md"
+                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "4ef0bc555596e269",
   "lastOpenFiles": [
-    "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020.md",
-    "Coding/CollectedNotes/Algorithm-MIT6.006.md",
+    "Coding/GraspedNotes/Untitled.md",
+    "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020",
+    "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduciton.md",
+    "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020",
+    "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020-01.md",
     "readme.md",
     "Coding/MainNotes",
     "LeetCode/untitled folder",
