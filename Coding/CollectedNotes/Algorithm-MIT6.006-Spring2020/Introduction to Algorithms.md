@@ -4,3 +4,5 @@ This course is an introduction to mathematical modeling of computational problem
 
 References:
 https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&si=Wm5S_LqmqzsV3Wut
+
+[[Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms|Learning Algorithms]]
