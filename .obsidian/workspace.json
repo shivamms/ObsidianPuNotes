@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006.md"
               }
             }
           }
@@ -146,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ef0bc555596e269",
+  "active": "d008a2f0e4dbc130",
   "lastOpenFiles": [
+    "readme.md",
+    "Coding/CollectedNotes/Algorithm-MIT6.006.md",
     "Coding/MainNotes",
     "LeetCode/untitled folder",
     "Coding/GraspedNotes",
     "Coding/CollectedNotes",
     "LeetCode/FleetingNotes",
     "Untitled",
-    "Coding",
-    "readme.md"
+    "Coding"
   ]
 }
