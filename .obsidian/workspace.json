@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md"
+                "file": "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d008a2f0e4dbc130",
   "lastOpenFiles": [
-    "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
     "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
+    "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
     "introduction_MIT6_006S20_lec1.pdf",
     "477c78e0af2df61fa205bcc6cb613ceb_MIT6_006S20_lec1.pdf",
     "Coding/GraspedNotes/Untitled.md",
