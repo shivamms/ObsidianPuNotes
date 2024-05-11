@@ -32,4 +32,7 @@ Solve problems that involve collecting and analyzing meaningful data.
 20. Identify influence points
 21. Predictions
 22. One way analysis of variance
-23. Ch
+23. Chi squared analysis
+
+[[MBA Statistics Collected General|MBA Statistics Collected General]]
+[[MBA Anna University/MainNotes/Statistics/General|General]]
