@@ -23,4 +23,13 @@ Solve problems that involve collecting and analyzing meaningful data.
 11. Confidence interval with 1 or 2 means
 12. Differences of means
 13. Estimate population parameters
-14. 
+14. Model the sampling distribution
+15. Central limit theorem for means
+16. Hypothesis tests
+17. Equation of best fit
+18. Measures for strength of relationship
+19. Identify outliers
+20. Identify influence points
+21. Predictions
+22. One way analysis of variance
+23. Ch
