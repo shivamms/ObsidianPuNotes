@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d008a2f0e4dbc130",
+  "active": "4ef0bc555596e269",
   "lastOpenFiles": [
+    "MBA Anna University/CollectedNotes/Statistics/Untitled.md",
+    "MBA Anna University/CollectedNotes/Statistics",
+    "MBA Anna University/CollectedNotes",
+    "MBA Anna University",
     "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
     "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
     "introduction_MIT6_006S20_lec1.pdf",
@@ -158,9 +162,6 @@
     "readme.md",
     "Coding/MainNotes",
     "LeetCode/untitled folder",
-    "Coding/GraspedNotes",
-    "Coding/CollectedNotes",
-    "LeetCode/FleetingNotes",
-    "Untitled"
+    "Coding/GraspedNotes"
   ]
 }
