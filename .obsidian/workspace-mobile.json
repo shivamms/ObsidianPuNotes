@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
+                "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
+            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
+            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md"
+            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md"
           }
         }
       },
@@ -144,10 +144,11 @@
   },
   "active": "23fed2973797526c",
   "lastOpenFiles": [
-    "MBA Anna University/GraspedNotes/Statistics/General.md",
-    "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
-    "MBA Anna University/MainNotes/Statistics/General.md",
     "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
+    "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
+    "MBA Anna University/GraspedNotes/Statistics/MBA Statistics Grasped General.md",
+    "MBA Anna University/MainNotes/Statistics/MBA Statistics Main General.md",
+    "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
     "SMDM-SYLLABUS SEMESTER I-14 (1).pdf",
     "Screenshot_20240511_170820_Obsidian.jpg",
     "Screenshot_20240511_170628_Obsidian.jpg",
