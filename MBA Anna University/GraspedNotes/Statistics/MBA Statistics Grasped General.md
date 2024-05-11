@@ -35,4 +35,4 @@ Solve problems that involve collecting and analyzing meaningful data.
 23. Chi squared analysis
 
 [[MBA Statistics Collected General|MBA Statistics Collected General]]
-[[MBA Anna University/MainNotes/Statistics/General|General]]
+[[MBA Statistics Main General|MBA Statistics Main General]]
