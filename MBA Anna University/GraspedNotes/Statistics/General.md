@@ -17,4 +17,10 @@ Solve problems that involve collecting and analyzing meaningful data.
 5. Generalized conclusion for larger population
 6. Statistical terminology and formulas
 7. Solve for various variables in the formulas
-8. 
+8. Elementary probability calculations
+9. Apply probability distributions 
+10. Discrete, binomial, uniform and normal distributions
+11. Confidence interval with 1 or 2 means
+12. Differences of means
+13. Estimate population parameters
+14. 
