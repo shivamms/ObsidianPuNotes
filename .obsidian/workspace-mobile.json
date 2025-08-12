@@ -11,8 +11,12 @@
             "id": "c3168e5f1d2b27f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -68,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "70f6954600c5b248",
@@ -81,6 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2025-08-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2025-08-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +112,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2025-08-11.md"
+          }
         }
       },
       {
@@ -136,6 +143,7 @@
   },
   "active": "c3168e5f1d2b27f9",
   "lastOpenFiles": [
+    "2025-08-11.md",
     "introduction_MIT6_006S20_lec1.pdf",
     "SMDM-SYLLABUS SEMESTER I-14 (1).pdf",
     "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
@@ -154,7 +162,6 @@
     "MBA Anna University/GraspedNotes",
     "MBA Anna University/CollectedNotes",
     "CollectedNotes",
-    "MBA Anna University",
     "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
     "readme.md",
     "/Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
