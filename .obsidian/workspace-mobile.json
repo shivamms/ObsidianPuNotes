@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "51f7306b96fb5d29",
+        "id": "eae0ef598c9bbd4b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6c500a75e55829",
+            "id": "c3168e5f1d2b27f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -134,8 +134,9 @@
       "zettelflow:Create a new Zettel Note": false
     }
   },
-  "active": "3d6c500a75e55829",
+  "active": "c3168e5f1d2b27f9",
   "lastOpenFiles": [
+    "introduction_MIT6_006S20_lec1.pdf",
     "SMDM-SYLLABUS SEMESTER I-14 (1).pdf",
     "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
     "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
