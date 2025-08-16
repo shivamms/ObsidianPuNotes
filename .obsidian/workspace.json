@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7cda7fe6405f911d",
+        "id": "7bce4b219336659f",
         "type": "tabs",
         "children": [
           {
-            "id": "d008a2f0e4dbc130",
+            "id": "c906593e5d4f7f56",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "introduction_MIT6_006S20_lec1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "introduction_MIT6_006S20_lec1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d008a2f0e4dbc130",
+  "active": "4ef0bc555596e269",
   "lastOpenFiles": [
     "2025-08-11.md",
     "Excalidraw/Drawing 2024-05-13 20.34.26.excalidraw.md",
