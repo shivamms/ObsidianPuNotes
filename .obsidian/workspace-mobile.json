@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63c3693be2bb6f0a",
+        "id": "eae0ef598c9bbd4b",
         "type": "tabs",
         "children": [
           {
-            "id": "23fed2973797526c",
+            "id": "c3168e5f1d2b27f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
+                "file": "2025-08-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "70f6954600c5b248",
@@ -85,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
+            "file": "2025-08-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
+            "file": "2025-08-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md"
+            "file": "2025-08-11.md"
           }
         }
       },
@@ -142,16 +141,18 @@
       "zettelflow:Create a new Zettel Note": false
     }
   },
-  "active": "23fed2973797526c",
+  "active": "c3168e5f1d2b27f9",
   "lastOpenFiles": [
-    "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
+    "2025-08-11.md",
+    "introduction_MIT6_006S20_lec1.pdf",
+    "SMDM-SYLLABUS SEMESTER I-14 (1).pdf",
     "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected Probability Introduction.md",
+    "MBA Anna University/CollectedNotes/Statistics/MBA Statistics Collected General.md",
     "Excalidraw/Drawing 2024-05-13 20.34.26.excalidraw.md",
     "Excalidraw",
     "Coding/CollectedNotes/Algorithm-MIT6.006-Spring2020/Introduction to Algorithms.md",
     "MBA Anna University/GraspedNotes/Statistics/MBA Statistics Grasped General.md",
     "MBA Anna University/MainNotes/Statistics/MBA Statistics Main General.md",
-    "SMDM-SYLLABUS SEMESTER I-14 (1).pdf",
     "Screenshot_20240511_170820_Obsidian.jpg",
     "Screenshot_20240511_170628_Obsidian.jpg",
     "MBA Anna University/MainNotes/Statistics",
@@ -161,7 +162,6 @@
     "MBA Anna University/GraspedNotes",
     "MBA Anna University/CollectedNotes",
     "CollectedNotes",
-    "MBA Anna University",
     "Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
     "readme.md",
     "/Coding/GraspedNotes/Algorithm-MIT6.006-Spring2020/Learning Algorithms.md",
